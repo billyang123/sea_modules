@@ -1,0 +1,1 @@
+(function(){var a=this,b={base:"undefined"==typeof process?window.globalArgs.assetsPath:null,vars:{jqueryVersion:"1-8-3"},alias:{jquery:"lib/jquery/jquery-{jqueryVersion}"},paths:{},comboSyntax:["??",","],comboMaxLength:500,preload:[],map:[],charset:"utf-8",timeout:2e4,debug:!0};return a.seajs&&a.seajs.config(b),b}).call(this);
