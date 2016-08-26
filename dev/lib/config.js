@@ -1,6 +1,5 @@
 (function() {
     var root = this;
-    var assetsPath = "";
     var config = {
         base: typeof process === "undefined" ? window.globalArgs.assetsPath : null,
 		vars: {
